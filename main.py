@@ -1,6 +1,7 @@
 """
+    :id  => 315202
     :key => 814c59b24b1da8eca1db0b0e28a04c1c
-    :url => http://api.openweathermap.org/data/2.5/forecast/city?id=524901&APPID=:key
+    :url => http://api.openweathermap.org/data/2.5/forecast/city?id=:id&APPID=:key
 """
 
 from urllib.request import urlopen
@@ -35,6 +36,7 @@ for state in obj['list']:
     print(detail)
     details.append(detail)
 
+# save the data to a file
 with open('result', 'w') as fp:
     fp.write(str(name).upper() + " WEATHER\n" + "-" * 50 + "\n")
     for detail in details:
