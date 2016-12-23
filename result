@@ -1,0 +1,434 @@
+ESKISEHIR WEATHER
+--------------------------------------------------
+
+    Time : 12:00
+        MAIN
+            Temperature : 4.14
+        WIND
+            Degree : 50.5007
+            Speed  : 1.97
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 15:00
+        MAIN
+            Temperature : 2.76
+        WIND
+            Degree : 17.0011
+            Speed  : 1.3
+        WEATHER
+            Description : snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 18:00
+        MAIN
+            Temperature : 1.38
+        WIND
+            Degree : 332.502
+            Speed  : 1.26
+        WEATHER
+            Description : snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 21:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 340.002
+            Speed  : 1.31
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 00:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 340.001
+            Speed  : 1.4
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 03:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 314.502
+            Speed  : 1.4
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 06:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 296.501
+            Speed  : 1.41
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 09:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 306.002
+            Speed  : 2.16
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 12:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 324.505
+            Speed  : 2.87
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 15:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 317.003
+            Speed  : 3.03
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 18:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 309.501
+            Speed  : 1.96
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 21:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 294.505
+            Speed  : 2.06
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 00:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 298.501
+            Speed  : 2.37
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 03:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 307.507
+            Speed  : 1.97
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 06:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 267.5
+            Speed  : 1.42
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 09:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 277.501
+            Speed  : 2.06
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 12:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 292.501
+            Speed  : 2.51
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 15:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 273.001
+            Speed  : 1.51
+        WEATHER
+            Description : few clouds
+            Main        : Clouds
+--------------------------------------------------
+
+
+    Time : 18:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 279.501
+            Speed  : 1.31
+        WEATHER
+            Description : broken clouds
+            Main        : Clouds
+--------------------------------------------------
+
+
+    Time : 21:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 234.501
+            Speed  : 1.26
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 00:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 223.503
+            Speed  : 1.52
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 03:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 250.503
+            Speed  : 2.06
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 06:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 256.009
+            Speed  : 1.8
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 09:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 278.002
+            Speed  : 2.06
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 12:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 282.5
+            Speed  : 2.31
+        WEATHER
+            Description : few clouds
+            Main        : Clouds
+--------------------------------------------------
+
+
+    Time : 15:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 259.501
+            Speed  : 1.7
+        WEATHER
+            Description : few clouds
+            Main        : Clouds
+--------------------------------------------------
+
+
+    Time : 18:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 244.505
+            Speed  : 2.06
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 21:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 241.501
+            Speed  : 2.11
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 00:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 233.503
+            Speed  : 2.19
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 03:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 221
+            Speed  : 2.12
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
+
+    Time : 06:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 213.001
+            Speed  : 1.86
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 09:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 216.502
+            Speed  : 2.07
+        WEATHER
+            Description : light snow
+            Main        : Snow
+--------------------------------------------------
+
+
+    Time : 12:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 249.501
+            Speed  : 2.07
+        WEATHER
+            Description : light rain
+            Main        : Rain
+--------------------------------------------------
+
+
+    Time : 15:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 226.502
+            Speed  : 1.32
+        WEATHER
+            Description : light rain
+            Main        : Rain
+--------------------------------------------------
+
+
+    Time : 18:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 200.501
+            Speed  : 1.52
+        WEATHER
+            Description : light rain
+            Main        : Rain
+--------------------------------------------------
+
+
+    Time : 21:00
+        MAIN
+            Temperature : 0
+        WIND
+            Degree : 207.501
+            Speed  : 1.32
+        WEATHER
+            Description : clear sky
+            Main        : Clear
+--------------------------------------------------
+
